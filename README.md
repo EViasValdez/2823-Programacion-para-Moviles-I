@@ -15,7 +15,7 @@ Texto por ser puesto.
 <!----Directorio con descripcion de los programas---->
 # Descripcion de los programas
 ###### PrimeraAplicacion - 00/00/00
-Text.
+Esta es la primera aplicacion que se realizo.
 
 <!----Separador---->
 
