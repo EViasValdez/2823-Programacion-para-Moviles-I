@@ -3,7 +3,7 @@
 <!--Formato de descripción de repositorios-->
 
 <!----Descripción---->
-Texto por ser puesto.
+En la primera parte de programacion para moviles se utlizo el progrma Android Studio y los proyectos a desarrollar fueron realizados en Kotlin, aunque solo se tuvieron los programas de la primera y la segunda unidad.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
@@ -15,7 +15,7 @@ Texto por ser puesto.
 <!----Directorio con descripcion de los programas---->
 # Descripcion de los programas
 ###### PrimeraAplicacion - 00/00/00
-Esta es la primera aplicacion que se realizo.
+Esta es la primera aplicacion que se realize.
 
 <!----Separador---->
 
