@@ -20,12 +20,12 @@ Esta es la primera aplicacion que se realize.
 <!----Separador---->
 
 ###### Prueba - 00/00/00
-Text.
+Texto por ser puesto.
 
 <!----Separador---->
 
 ###### Botones - 00/00/00
-Text.
+Texto por ser puesto.
 
 <!----Separador---->
 
