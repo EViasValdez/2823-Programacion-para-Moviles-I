@@ -1,11 +1,5 @@
 # Programacion para moviles I
 
-<!--Formato de descripción de repositorios-->
-
-<!----Descripción---->
-En la primera parte de programacion para moviles se utlizo el progrma Android Studio y los proyectos a desarrollar fueron realizados en Kotlin, aunque solo se tuvieron los programas de la primera y la segunda unidad.
-<!----Separador de la descripción ---->
-
 <!----Notas---->
 **Notas**
 
