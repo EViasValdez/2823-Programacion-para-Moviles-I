@@ -14,7 +14,7 @@ Esta es la primera aplicacion que se realize.
 <!----Separador---->
 
 ###### Prueba - 00/00/00
-Texto por ser puesto.
+Primera aplicacion realizada para probar la interfaz de trabajo de Android Studio.
 
 <!----Separador---->
 
