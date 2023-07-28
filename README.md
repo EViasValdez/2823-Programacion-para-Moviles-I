@@ -19,7 +19,7 @@ Primera aplicacion realizada para probar la interfaz de trabajo de Android Studi
 <!----Separador---->
 
 ###### Botones - 00/00/00
-Texto por ser puesto.
+Utilizacion y colocacion de botones.
 
 <!----Separador---->
 
