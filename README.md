@@ -24,7 +24,7 @@ Utilizacion y colocacion de botones.
 <!----Separador---->
 
 ###### Login - 00/00/00
-Text.
+Texto por ser escrito.
 
 <!----Separador---->
 
