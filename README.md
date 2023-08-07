@@ -29,6 +29,6 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### example_kotlin_volley-main - 00/00/23
-Text.
+Texto por ser escrito.
 
 <!----Separador del directorio con descripcion de los programas---->
