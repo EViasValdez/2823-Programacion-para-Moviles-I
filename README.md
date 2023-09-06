@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Por ser escritas.**
+**- Aqui estan solo los .**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
