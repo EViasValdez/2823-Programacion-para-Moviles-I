@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Aqui estan solo los .**
+**- Estos son los unicos programas los cuales fueron programados en lenguaje Kotlin.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
