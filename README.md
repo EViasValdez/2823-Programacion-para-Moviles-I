@@ -26,7 +26,7 @@ Utilizacion y colocacion de botones.
 <!----Separador---->
 
 ###### Login - 02/23
-Texto por ser escrito.
+Aplicacion que utiliza el sistema de registro de usuario y contraseña.
 
 <!----Separador---->
 
