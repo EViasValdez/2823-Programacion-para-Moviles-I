@@ -5,7 +5,7 @@
 
 **- Estos son los únicos programas los cuales fueron programados en lenguaje Kotlin.**
 
-**- No hay demasiados cambios en varios de las aplicaciones.**
+**- No hay demasiados cambios en varias de las aplicaciones.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
