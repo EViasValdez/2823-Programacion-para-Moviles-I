@@ -21,7 +21,7 @@ Primera aplicación realizada para probar la interfaz y funcionamiento de trabaj
 <!----Separador---->
 
 ###### Botones - 02/23
-Utilización y colocación de botones.
+Utilización, revision y colocación de botones.
 
 <!----Separador---->
 
