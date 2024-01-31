@@ -10,27 +10,27 @@
 
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
-###### PrimeraAplicacion - 01/23
+###### PrimeraAplicacion - 00/01/23
 Esta es la primera aplicacion para telefono que se realizo bajo el lenguaje Kotlin.
 
 <!----Separador---->
 
-###### Prueba - 01/23
+###### Prueba - 00/01/23
 Primera aplicación realizada para probar la interfaz y funcionamiento de trabajo de Android Studio.
 
 <!----Separador---->
 
-###### Botones - 02/23
+###### Botones - 00/02/23
 Utilización, revision y colocación de botones.
 
 <!----Separador---->
 
-###### Login - 02/23
+###### Login - 00/02/23
 Aplicación que utiliza el sistema de registro de usuario y contraseña.
 
 <!----Separador---->
 
-###### example_kotlin_volley-main - 02/23
+###### example_kotlin_volley-main - 00/02/23
 Intento de modificacion de un trabajo previamente realizado por el profesor de la materia.
 
 <!----Separador del directorio con descripción de los programas---->
