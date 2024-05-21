@@ -31,6 +31,6 @@ Aplicación que utiliza el sistema de registro de usuario y contraseña.
 <!----Separador---->
 
 ###### example_kotlin_volley-main - 00/02/23
-Intento de modificacion de un trabajo previamente realizado por el profesor de la materia.
+Intento de modificación de un trabajo previamente realizado por el profesor de la materia.
 
 <!----Separador del directorio con descripción de los programas---->
