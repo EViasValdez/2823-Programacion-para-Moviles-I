@@ -11,6 +11,4 @@ class Informacion constructor(data : org.json.JSONObject){
         next = data.getString("next")
         prev = data.getString("prev")
     }
-
-
 }

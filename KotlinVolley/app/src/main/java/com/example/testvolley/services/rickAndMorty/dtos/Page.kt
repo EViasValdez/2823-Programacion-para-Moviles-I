@@ -21,8 +21,4 @@ class Page constructor(data : org.json.JSONObject) {
             this.personajes.add(Personaje(results.getJSONObject(i)))
         }
     }
-
-
-
-
 }

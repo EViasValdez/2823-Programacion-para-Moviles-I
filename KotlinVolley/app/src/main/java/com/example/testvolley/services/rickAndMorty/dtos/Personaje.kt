@@ -30,6 +30,4 @@ class Personaje constructor(data : org.json.JSONObject){
         this.url = data.getString("url")
         this.created = data.getString("created")
     }
-
 }
-
