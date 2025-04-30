@@ -10,7 +10,7 @@
 
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
-###### PrimeraAplicacion - 00/01/23 
+###### PrimeraAplicacion - 00/01/23
 Esta es la primera aplicacion para telefono que se realizo bajo el lenguaje Kotlin.
 
 <!----Separador---->
