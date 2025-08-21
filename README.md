@@ -31,6 +31,6 @@ Aplicación que utiliza el sistema de registro de usuario y contraseña.
 <!----Separador---->
 
 ###### example_kotlin_volley-main - 00/02/23
-Intento de modificación de un trabajo previamente realizado por el profesor de la materia implementando la librería Volley con Kotlin.
+Intento de modificación de un trabajo previamente realizado por el profesor de la materia implementando la librería Volley en el proyecto de Kotlin.
 
 <!----Separador del directorio con descripción de los programas---->
