@@ -5,7 +5,7 @@
 
 **- Estos son los únicos programas que se llegaron a hacer los cuales estan programados en lenguaje Kotlin, la clase quedo inconclusa despues de la primera unidad.**
 
-**- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a reusarse), excepto actualizaciones de version de los lenguajes de los mismos.**
+**- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a reusarse), excepto actualizaciones a los archivos de los lenguajes de los mismos.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
