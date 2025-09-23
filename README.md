@@ -1,9 +1,9 @@
-# Programacion para moviles I
+# Programación para móviles I
 
 <!----Notas---->
 **Notas**
 
-**- Estos son los únicos programas que se llegaron a hacer los cuales estan programados en lenguaje Kotlin, la clase quedo inconclusa despues de la primera unidad.**
+**- Estos son los únicos programas que se llegaron a hacer los cuales están programados en lenguaje Kotlin, la clase quedo inconclusa después de la primera unidad.**
 
 **- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a reusarse), excepto actualizaciones a los lenguajes de los mismos.**
 <!----Separador de las notas---->
@@ -11,7 +11,7 @@
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ###### PrimeraAplicacion - 00/01/23
-Esta es la primera aplicacion para telefono que se realizo bajo el lenguaje Kotlin.
+Esta es la primera aplicación para teléfono que se realizo bajo el lenguaje Kotlin.
 
 <!----Separador---->
 
