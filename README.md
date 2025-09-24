@@ -6,6 +6,8 @@
 **- Estos son los únicos programas que se llegaron a hacer los cuales están programados en lenguaje Kotlin, la clase quedo inconclusa después de la primera unidad.**
 
 **- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto actualizaciones a los lenguajes de los mismos.**
+
+**- Las fechas no son exactas, asi que por eso no hay días en las mismas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
