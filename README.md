@@ -3,9 +3,9 @@
 <!----Notas---->
 **Notas**
 
-**- Estos son los únicos programas que se llegaron a hacer los cuales están programados en lenguaje Kotlin, la clase quedo incompleta después de la primera unidad.**
+**- Estos son los únicos programas que se llegaron a hacer los cuales están programados en lenguaje Kotlin la clase quedo incompleta después de la primera unidad.**
 
-**- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto actualizaciones a los lenguajes de los mismos.**
+**- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto actualizaciones a los lenguajes de los mismos que pueden llegar a haber.**
 
 **- Las fechas no son exactas, asi que por eso no hay días en las mismas.**
 <!----Separador de las notas---->
