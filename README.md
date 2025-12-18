@@ -8,6 +8,8 @@
 **- No hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto actualizaciones a los lenguajes de los mismos que pueden llegar a haber ya que no son muchas.**
 
 **- Las fechas no son exactas, asi que por eso no hay días en las mismas.**
+
+**- Por la forma del lenguaje se recomienda que se use Android Studio, hay otras aplicaciones que aceptan Kotlin pero no se como funcionarían ahi.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
