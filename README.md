@@ -1,5 +1,9 @@
 # Programación para móviles I
 
+<!----Descripción---->
+Por ser escrita.
+<!----Separador de la descripción ---->
+
 <!----Notas---->
 **Notas**
 
