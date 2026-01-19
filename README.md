@@ -8,7 +8,7 @@ Estos son los únicos programas que se llegaron a hacer los cuales están progra
 **Notas**
 **- Las fechas no son exactas, asi que por eso no hay días en las mismas.**
 
-**- Por la forma del lenguaje se recomienda que se use Android Studio, hay otras aplicaciones que aceptan Kotlin pero no se como funcionarían ahi.**
+**- Por la forma del lenguaje se recomienda que se use Android Studio, hay otras aplicaciones que aceptan Kotlin pero no se como funcionan ahi.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
