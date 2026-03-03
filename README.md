@@ -14,7 +14,7 @@ Estos son los únicos programas que se llegaron a hacer para la materia correspo
 <!----Directorio con descripción de los programas---->
 # Descripción de los programas
 ###### PrimeraAplicacion - 00/01/23
-Esta es la primera aplicación para teléfono que se realizo bajo el lenguaje Kotlin.
+Esta es la primera aplicación para teléfono que se realizo bajo el lenguaje de programación Kotlin.
 
 <!----Separador---->
 
