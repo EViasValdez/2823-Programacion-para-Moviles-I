@@ -19,7 +19,7 @@ Esta es la primera aplicación para teléfono que se realizo bajo el lenguaje de
 <!----Separador---->
 
 ###### Prueba - 00/01/23
-Primera aplicación realizada para probar la interfaz y funcionamiento de trabajo de Android Studio.
+Primera aplicación realizada para probar la interfaz y funcionamiento de trabajo del programa Android Studio.
 
 <!----Separador---->
 
