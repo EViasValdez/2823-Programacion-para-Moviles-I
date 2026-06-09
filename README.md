@@ -6,7 +6,7 @@ Estos son los únicos programas que se llegaron a hacer para la materia correspo
 
 <!----Notas---->
 **Notas**
-**- Las fechas no son exactas, asi que por eso no hay días en las mismas.**
+**- Las fechas no son completamente exactas, asi que por eso no hay días en las mismas.**
 
 **- Por la forma del lenguaje se debe de usar Android Studio, hay otras aplicaciones que aceptan Kotlin, pero no se como funcionan ahi.**
 <!----Separador de las notas---->
