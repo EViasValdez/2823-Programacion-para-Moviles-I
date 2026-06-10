@@ -1,7 +1,7 @@
 # Programación para móviles I
 
 <!----Descripción---->
-Estos son los únicos programas que se llegaron a hacer para la materia correspondiente que quedo incompleta después de la primera unidad, los cuales están programados en lenguaje Kotlin, de momento no hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto actualizaciones a los lenguajes de los mismos.
+Estos son los únicos programas que se llegaron a hacer para la materia correspondiente que quedo incompleta después de la primera unidad, los cuales están programados en lenguaje Kotlin, de momento no hay muchos cambios en varias de las aplicaciones (debido a lo complicado que puede llegar a volverse a usar), excepto por actualizaciones.
 <!----Separador de la descripción---->
 
 <!----Notas---->
